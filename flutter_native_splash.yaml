@@ -1,0 +1,6 @@
+# fvm dart run flutter_native_splash:create --path flutter_native_splash.yaml
+flutter_native_splash:
+  image: assets/logo.jpeg
+  color: "#ffffff"
+  android_12:
+    color: "#ffffff"
